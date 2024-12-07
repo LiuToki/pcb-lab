@@ -1,0 +1,4 @@
+[submodule "liut-kicad-library"]
+	path = liut-kicad-library
+	url = https://github.com/LiuToki/liut-kicad-library.git
+	ignore = dirty
